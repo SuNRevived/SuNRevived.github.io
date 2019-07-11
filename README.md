@@ -1,2 +1,2 @@
 # SuNRevived.github.io
-A GitHub Pages site for {SuN} Revived
+A GitHub Pages site for {SuN} Revived :)
